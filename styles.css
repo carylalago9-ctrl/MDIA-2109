@@ -1,0 +1,44 @@
+body {
+    background-color: wheat;
+}
+
+.plan_header {
+    color: indianred;
+    text-align: center;
+    font-family: monospace;
+    font-size: 60px;
+}
+
+.plan_subheader_1 {
+    color: slategrey;
+    text-align: left;
+    font-size: 25px;
+    padding-left: 10em;
+    padding-right: 10em;
+    padding-top: 2.5em;
+}
+
+.plan_subheader_2 {
+    color: slategrey;
+    text-align: right;
+    font-size: 25px;
+    padding-left: 10em;
+    padding-right: 10em;
+    padding-top: 2.5em;
+}
+
+.plan_text_1 {
+    color: darkslateblue;
+    text-align: left;
+    padding-left: 10em;
+    padding-right: 10em;
+    font-size: 20px;
+}
+
+.plan_text_2 {
+    color: darkslateblue;
+    text-align: right;
+    padding-left: 10em;
+    padding-right: 10em;
+    font-size: 20px;
+}
