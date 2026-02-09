@@ -9,35 +9,20 @@ body {
     font-size: 60px;
 }
 
-.plan_subheader_1 {
+.plan_subheader {
     color: slategrey;
-    text-align: left;
     font-size: 25px;
     padding-left: 10em;
     padding-right: 10em;
     padding-top: 2.5em;
 }
 
-.plan_subheader_2 {
-    color: slategrey;
+.right-aligned {
     text-align: right;
-    font-size: 25px;
-    padding-left: 10em;
-    padding-right: 10em;
-    padding-top: 2.5em;
 }
 
-.plan_text_1 {
+.plan_text {
     color: darkslateblue;
-    text-align: left;
-    padding-left: 10em;
-    padding-right: 10em;
-    font-size: 20px;
-}
-
-.plan_text_2 {
-    color: darkslateblue;
-    text-align: right;
     padding-left: 10em;
     padding-right: 10em;
     font-size: 20px;
