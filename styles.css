@@ -1,0 +1,35 @@
+body {
+    background-color: wheat;
+}
+
+.plan_header {
+    color: indianred;
+    text-align: center;
+    font-family: monospace;
+    font-size: 60px;
+}
+
+.plan_subheader {
+    color: slategrey;
+    font-size: 25px;
+    padding-left: 10em;
+    padding-right: 10em;
+    padding-top: 2.5em;
+}
+
+.right-aligned {
+    text-align: right;
+}
+
+.plan_text {
+    color: darkslateblue;
+    padding-left: 10em;
+    padding-right: 10em;
+    font-size: 20px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    padding-top: 5em;
+}
